@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Futbolon3</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="title_activity_league">LeagueActivity</string>
+    <string name="titleLeague">League 2017/18</string>
+    <string name="titleInformation">Información</string>
+    <string name="logoInfo">Logo:</string>
+    <string name="nameInfo">Nombre:</string>
+    <string name="yearInfo">Año:</string>
+    <string name="gamesPlayedInfo">Cantidad juegos jugados:</string>
+    <string name="totalGamesInfo">Total de juegos:</string>
+    <string name="teamsInfo">Cantidad de equipos:</string>
+</resources>
